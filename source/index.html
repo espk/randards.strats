@@ -1,0 +1,11 @@
+---
+title: Raids
+layout: layout.liquid
+---
+
+<h2>Ny'alotha</h2>
+<ul>
+{% for fight in collections.nyalotha %}
+    <li><a href="{{ fight.url | url }}">{{ fight.data.title }}</a></li>
+{% endfor %}
+</ul>
