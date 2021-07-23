@@ -1,6 +1,6 @@
 ---
-title: Il'gynoth
-permalink: nyalotha/{{ title | slug }}/index.html
+title: Sire Denathrius
+permalink: castle-nathria/{{ title | slug }}/index.html
 order: 10
 ---
 
@@ -13,18 +13,22 @@ order: 10
 
 - Everyone
 
-- Bloodlust / Timewarp
+- Timewarp
 
 ## Phases
 
 
 ## Abilities
+### Phase I
+
+
+### Phase II
 
 
 ## Reference
 
 - icy-veins - 
 - wowhead - [guide]()
-- fatboss - [video]()
+- wowhead - [video]()
 
 ## Notes
