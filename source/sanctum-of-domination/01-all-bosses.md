@@ -145,12 +145,16 @@ Soulrender Dormazain<br>
 <a href="https://www.youtube.com/watch?v=X2JtwZ-12Vc">https://www.youtube.com/watch?v=X2JtwZ-12Vc</a>
 
 <pre><code>    
- red beam on garrosh
-    then 3 of the 4 floor sections fill with red wayward anima - go to clear section tormented eruptions
-    many waves of red wayward anima on floor - go to clear section warmonger shackles
+torment
+    red beam on garrosh
+    then 3 of the 4 floor sections fill with red wayward anima - go to clear section
+tormented eruptions
+    many waves of red wayward anima on floor - go to clear section
+warmonger shackles
     3 shackles appear on ground near garrosh
     3 players each grab 1 and run 40 yards away to break the shackle
-    when broken, it does raid wide damage so they need to be broken 1 at a time must be done before hellscream finishes casting. if not, then raid will wipe
+    when broken, it does raid wide damage so they need to be broken 1 at a time
+    must be done before hellscream finishes casting. if not, then raid will wipe
     
 mawsworn agonizer adds
     they slowly moves towards garrosh
@@ -191,9 +195,9 @@ spike balls
     if a player touches a ball, he dies
     must kill 1 ball
 at 70% and 40% there is a transition phase.
-boss makes a new weapon
-rows of spikes are sent across floor, but has a 1 square opening
-move through gap
+    boss makes a new weapon
+    rows of spikes are sent across floor, but has a 1 square opening
+    move through gap
     
 <b>Heroic</b>
     flameclasp trap
@@ -267,7 +271,7 @@ phase 1
         large white ring on player
         player moves to edge of room
     fated conjunction
-    3 black beams from sides of room - avoid
+        3 black beams from sides of room - avoid
 
 phase 2        
     transition phase at 70% and 40%
