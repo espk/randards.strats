@@ -3,6 +3,13 @@ title: Raids
 layout: layout.liquid
 ---
 
+<h2>Sanctum of Domination</h2>
+<ul>
+{% for fight in collections.sanctum-of-domination %}
+    <li><a href="{{ fight.url | url }}">{{ fight.data.title }}</a></li>
+{% endfor %}
+</ul>
+
 <h2>Castle Nathria</h2>
 <ul>
 {% for fight in collections.castle-nathria %}
